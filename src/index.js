@@ -1,3 +1,2 @@
 import './css/style.css';
-
-console.log('it works!')
+import './js/app.js';
